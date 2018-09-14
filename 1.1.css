@@ -1,0 +1,15 @@
+p.ordinary {
+    color: blue;
+    font-size: 70%;
+    font-family: Arial, Tahoma, "Lucida Sans Unicode";
+}
+
+li.proba {
+    list-style-type: none;
+}
+
+li.proba:before {
+    content: "§ ";
+    position: relative;
+    right: 17px;
+}
