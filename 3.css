@@ -1,0 +1,13 @@
+table {
+    width: 50%;
+    margin: 0 auto;
+}
+
+td {
+    background-color: red;
+    height: 30pt;
+}
+
+.spec_tr td {
+    width: 33.%;
+}
