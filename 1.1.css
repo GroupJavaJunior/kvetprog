@@ -13,3 +13,7 @@ li.proba:before {
     position: relative;
     right: 17px;
 }
+
+.all {
+    color: red;
+}
